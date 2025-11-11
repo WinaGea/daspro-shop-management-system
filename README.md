@@ -44,7 +44,7 @@ All store data is saved to a text file (`proyek.txt`), ensuring it remains avail
 
 ## 💻 Full Source Code
 The complete implementation of this program can be found here:  
-📁 [**shop_management.c**](./src/shop_management.c)
+📁 [**src/proyek1.c**](src/proyek1.c)
 
 ---
 
