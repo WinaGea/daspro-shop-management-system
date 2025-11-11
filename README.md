@@ -50,7 +50,8 @@ The complete implementation of this program can be found here:
 
 ## 📘 Documentation
 The detailed project report and explanation are available below:  
-📄 [**Proyek Akhir Daspro 2023**](doc/Proyek Akhir Daspro 2023.pdf)
+📄 [**Proyek Akhir Daspro 2023**](./doc/Proyek%20Akhir%20Daspro%202023.pdf)
+
 
 
 ---
